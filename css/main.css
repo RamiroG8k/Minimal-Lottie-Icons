@@ -30,3 +30,12 @@ body {
       margin-left: 0;
   }
 }
+
+h1, h2 {
+  margin: 0 auto;
+}
+
+span {
+  font-size: small;
+  font-weight: 100;
+}
